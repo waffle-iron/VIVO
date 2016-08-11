@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/tulibraries/VIVO.png?label=ready&title=Ready)](https://waffle.io/tulibraries/VIVO)
 # VIVO: Connect, Share, Discover
 
 VIVO is an open source semantic web tool for research discovery -- finding people and the research they do.
